@@ -1,0 +1,172 @@
+﻿  RubyTopia.cpp
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Include\crypt_blowfish\crypt_blowfish.cpp(899,18): warning C4244: '=': conversion from 'unsigned long' to 'char', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Include\bcrypt\bcrypt.cpp(97,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Include\bcrypt\bcrypt.cpp(98,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Include\bcrypt\bcrypt.cpp(118,6): warning C4101: 'fd': unreferenced local variable
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\back_end\hidden_actions.h(161,48): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\back_end\hidden_actions.h(169,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\back_end\hidden_actions.h(206,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\back_end\hidden_actions.h(207,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\back_end\hidden_actions.h(369,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\back_end\hidden_actions.h(381,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\gamepacket\game_packet.h(36,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\gamepacket\game_packet.h(39,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\gamepacket\game_packet.h(187,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\gamepacket\game_packet.h(190,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(288,32): warning C4101: 'e': unreferenced local variable
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(294,32): warning C4101: 'e': unreferenced local variable
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(634,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(635,63): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(808,83): warning C4018: '>': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1103,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1104,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1107,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1152,246): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1152,204): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1152,163): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1152,371): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1152,330): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1152,289): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1152,495): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1152,454): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1152,413): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1152,582): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1160,267): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1160,218): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1160,170): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1160,413): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1160,365): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1160,317): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1160,558): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1160,510): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1160,462): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1160,659): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1172,244): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1172,202): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1172,161): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1172,369): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1172,328): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1172,287): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1172,493): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1172,452): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1172,411): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\player\player_action.h(1172,580): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(102,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(111,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(303,13): warning C4101: 'e': unreferenced local variable
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(402,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(403,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(550,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(551,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(560,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(638,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(639,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(647,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(685,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(739,53): warning C4805: '|': unsafe mix of type 'bool' and type 'int' in operation
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(852,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(853,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(878,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(939,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(940,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(1091,9): warning C4101: 'ischecked1': unreferenced local variable
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(1092,9): warning C4101: 'ischecked2': unreferenced local variable
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(1701,13): warning C4101: 'e': unreferenced local variable
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(1873,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(2038,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(2039,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(2164,46): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(2176,46): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(2191,46): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(2203,46): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(2517,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(2518,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(2521,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(2553,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(2554,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\world\world_action.h(2557,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\Headers\guild\guild_action.h(11,4): warning C4551: function call missing argument list
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(41,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(66,19): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(2164,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(2165,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(2189,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(2189,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(2954,71): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(2991,71): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(3133,9): warning C4286: 'std::runtime_error &': is caught by base class ('std::exception &') on line 3129
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4024,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4024,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4035,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4035,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4295,28): warning C4309: '=': truncation of constant value
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0101' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0102' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0104' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0106' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0108' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0109' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u010A' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u010B' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u010C' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u010E' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u010F' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0112' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0113' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0114' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0115' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0116' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0117' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0118' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0119' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u011A' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0100' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u011C' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u011D' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u011E' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u011B' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u011F' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0124' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0123' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0121' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0120' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0122' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0126' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0125' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0127' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0128' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0129' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u012A' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u012B' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u012C' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u012D' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u012E' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u012F' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0130' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0132' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0133' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0134' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0135' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4592,16): warning C4566: character represented by universal-character-name '\u0136' cannot be represented in the current code page (1252)
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4761,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4762,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4770,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4771,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(2655,38): warning C4101: 'e': unreferenced local variable
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(2778,38): warning C4101: 'e': unreferenced local variable
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4584,17): warning C4101: 'currentPeer': unreferenced local variable
+C:\Users\gtps6\Desktop\RubyTopia\RubyTopia\RubyTopia.cpp(4824,20): warning C4101: 'e': unreferenced local variable
+  Generating code
+  1 of 2950 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RubyTopia.vcxproj -> C:\Users\gtps6\Desktop\RubyTopia\x64\Release\RubyTopia.exe

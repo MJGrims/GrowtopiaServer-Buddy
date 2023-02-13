@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Player">
+      <UniqueIdentifier>{5cb85cda-d9ed-4051-af73-4530e1cfbac0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\World">
+      <UniqueIdentifier>{64af7941-c13a-4cef-8979-aa9f2090e2ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GamePacket">
+      <UniqueIdentifier>{a950dd69-304f-4f24-8a5d-6f35f6165bc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\BackEnd">
+      <UniqueIdentifier>{83876ec0-38ee-4da8-8e30-21e077c82713}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Discord">
+      <UniqueIdentifier>{fd110d31-bcff-4980-b0b2-bef0a4ecfd38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\AntiCheat">
+      <UniqueIdentifier>{8e806bf8-5d5d-4e28-93d5-6ad6a4089501}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Guild">
+      <UniqueIdentifier>{47846500-b82c-44e1-a521-52145ff6b7b3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="RubyTopia.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Headers\gamepacket\game_packet.h">
+      <Filter>Header Files\GamePacket</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\back_end\hidden_actions.h">
+      <Filter>Header Files\BackEnd</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\discord\discord_bot.h">
+      <Filter>Header Files\Discord</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\discord\discord_webhook.h">
+      <Filter>Header Files\Discord</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\back_end\anti_cheat.h">
+      <Filter>Header Files\AntiCheat</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\world\world_action.h">
+      <Filter>Header Files\World</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\world\world_base.h">
+      <Filter>Header Files\World</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\player\player_action.h">
+      <Filter>Header Files\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\player\player_base.h">
+      <Filter>Header Files\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\guild\guild_action.h">
+      <Filter>Header Files\Guild</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
